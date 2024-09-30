@@ -1,0 +1,9 @@
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\bin\Release\SerialCommunicate.exe
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\bin\Release\SerialCommunicate.pdb
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.csprojAssemblyReference.cache
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.Form1.resources
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.Properties.Resources.resources
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.csproj.GenerateResource.cache
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.csproj.CoreCompileInputs.cache
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.exe
+C:\Users\19259\Desktop\SerialCommunicate - 副本\SerialCommunicate\obj\Release\SerialCommunicate.pdb
